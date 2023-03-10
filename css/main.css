@@ -61,9 +61,9 @@ button{
 
 
 /* theme */
-header h1{
+body header h1{
     line-height: 7.0rem;
-    text-align: center;
+    text-align: center center;
     animation: main_title 5s linear 5 alternate;
     width: 40rem;
     margin: 0
